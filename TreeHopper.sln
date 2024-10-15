@@ -3,7 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeHopper", "TreeHopper\TreeHopper.csproj", "{954D36D8-D2AE-4120-9248-F468660D6FCB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6295A30B-1A14-47E7-840A-58CD81DC54FD}"
+	ProjectSection(SolutionItems) = preProject
+		.adr-dir = .adr-dir
+		.dockerignore = .dockerignore
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		CHANGELOG.md = CHANGELOG.md
+		docker-compose.yml = docker-compose.yml
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeHopper", "src\TreeHopper\TreeHopper.csproj", "{E611DB5C-EB7D-40A2-99E5-05DF7EE2F7A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +24,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{954D36D8-D2AE-4120-9248-F468660D6FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{954D36D8-D2AE-4120-9248-F468660D6FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{954D36D8-D2AE-4120-9248-F468660D6FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{954D36D8-D2AE-4120-9248-F468660D6FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E611DB5C-EB7D-40A2-99E5-05DF7EE2F7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E611DB5C-EB7D-40A2-99E5-05DF7EE2F7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E611DB5C-EB7D-40A2-99E5-05DF7EE2F7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E611DB5C-EB7D-40A2-99E5-05DF7EE2F7A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
