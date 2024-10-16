@@ -10,10 +10,10 @@ WORKDIR /app
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["TreeHopper/TreeHopper.csproj", "TreeHopper/"]
-RUN dotnet restore "./TreeHopper/TreeHopper.csproj"
+COPY ["src/TreeHopper/TreeHopper.csproj", "src/TreeHopper/"]
+RUN dotnet restore "./src/TreeHopper/TreeHopper.csproj"
 COPY . .
-WORKDIR "/src/TreeHopper"
+WORKDIR "/src/src/TreeHopper"
 RUN dotnet build "./TreeHopper.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage

@@ -11,6 +11,7 @@ internal class Startup
 
   public virtual void ConfigureServices(IServiceCollection services)
   {
+    services.AddMediatR(config => config.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
     services.AddHostedService<Worker>();
   }
 }
