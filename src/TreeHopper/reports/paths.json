@@ -1,0 +1,6218 @@
+﻿{
+  "tier1": [
+    {
+      "name": "Animiste",
+      "strong": [
+        "Catalyste",
+        "Chaman",
+        "Chasseur",
+        "Druide",
+        "Haruspice",
+        "Illusionniste",
+        "Mage",
+        "Magelame",
+        "Prêtre",
+        "Sorcier",
+        "Troubadour"
+      ],
+      "likely": ["Augure", "Bricoleur"],
+      "none": [
+        "Archer",
+        "Brute",
+        "Brigand",
+        "Cambrioleur",
+        "Champion",
+        "Duelliste",
+        "Élémancien",
+        "Soldat"
+      ]
+    },
+    {
+      "name": "Astromancien",
+      "strong": [
+        "Augure",
+        "Catalyste",
+        "Druide",
+        "Haruspice",
+        "Illusionniste",
+        "Mage",
+        "Magelame",
+        "Prêtre",
+        "Sorcier",
+        "Troubadour"
+      ],
+      "likely": ["Bricoleur", "Chaman", "Élémancien"],
+      "none": [
+        "Archer",
+        "Brute",
+        "Brigand",
+        "Cambrioleur",
+        "Champion",
+        "Chasseur",
+        "Duelliste",
+        "Soldat"
+      ]
+    },
+    {
+      "name": "Clerc",
+      "strong": [
+        "Augure",
+        "Catalyste",
+        "Champion",
+        "Élémancien",
+        "Haruspice",
+        "Illusionniste",
+        "Mage",
+        "Magelame",
+        "Prêtre",
+        "Soldat",
+        "Sorcier",
+        "Troubadour"
+      ],
+      "likely": ["Bricoleur", "Chaman", "Druide"],
+      "none": [
+        "Archer",
+        "Brute",
+        "Brigand",
+        "Cambrioleur",
+        "Chasseur",
+        "Duelliste"
+      ]
+    },
+    {
+      "name": "Combattant",
+      "strong": ["Brute", "Champion", "Chasseur", "Magelame", "Soldat"],
+      "likely": ["Archer", "Brigand", "Catalyste", "Troubadour"],
+      "none": [
+        "Augure",
+        "Bricoleur",
+        "Cambrioleur",
+        "Chaman",
+        "Druide",
+        "Duelliste",
+        "Élémancien",
+        "Haruspice",
+        "Illusionniste",
+        "Mage",
+        "Prêtre",
+        "Sorcier"
+      ]
+    },
+    {
+      "name": "Éclaireur",
+      "strong": [
+        "Brute",
+        "Cambrioleur",
+        "Champion",
+        "Chasseur",
+        "Magelame",
+        "Soldat",
+        "Troubadour"
+      ],
+      "likely": [
+        "Archer",
+        "Bricoleur",
+        "Brigand",
+        "Catalyste",
+        "Druide",
+        "Duelliste",
+        "Haruspice",
+        "Illusionniste"
+      ],
+      "none": ["Augure", "Chaman", "Élémancien", "Mage", "Prêtre", "Sorcier"]
+    },
+    {
+      "name": "Élémentariste",
+      "strong": [
+        "Augure",
+        "Bricoleur",
+        "Catalyste",
+        "Champion",
+        "Élémancien",
+        "Illusionniste",
+        "Mage",
+        "Magelame",
+        "Prêtre",
+        "Soldat",
+        "Sorcier"
+      ],
+      "likely": ["Brute", "Brigand", "Haruspice", "Troubadour"],
+      "none": [
+        "Archer",
+        "Cambrioleur",
+        "Chaman",
+        "Chasseur",
+        "Druide",
+        "Duelliste"
+      ]
+    },
+    {
+      "name": "Ménestrel",
+      "strong": [
+        "Augure",
+        "Brigand",
+        "Cambrioleur",
+        "Haruspice",
+        "Magelame",
+        "Troubadour"
+      ],
+      "likely": [
+        "Archer",
+        "Bricoleur",
+        "Chasseur",
+        "Duelliste",
+        "Illusionniste",
+        "Mage",
+        "Prêtre",
+        "Sorcier"
+      ],
+      "none": [
+        "Brute",
+        "Catalyste",
+        "Chaman",
+        "Champion",
+        "Druide",
+        "Élémancien",
+        "Soldat"
+      ]
+    },
+    {
+      "name": "Roublard",
+      "strong": ["Augure", "Bricoleur", "Cambrioleur", "Troubadour"],
+      "likely": [
+        "Archer",
+        "Brigand",
+        "Chasseur",
+        "Duelliste",
+        "Élémancien",
+        "Illusionniste",
+        "Magelame",
+        "Sorcier"
+      ],
+      "none": [
+        "Brute",
+        "Catalyste",
+        "Chaman",
+        "Champion",
+        "Druide",
+        "Haruspice",
+        "Mage",
+        "Prêtre",
+        "Soldat"
+      ]
+    }
+  ],
+  "tier2": [
+    {
+      "name": "Archer",
+      "strong": [
+        "Assassin",
+        "Barde",
+        "Maître d’armes",
+        "Tireur d’élite",
+        "Traqueur"
+      ],
+      "likely": ["Artificier", "Chantelame", "Conspirateur", "Médecin"],
+      "none": [
+        "Alchimiste",
+        "Archidruide",
+        "Archimage",
+        "Commandant",
+        "Conjurateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Grand-Prêtre",
+        "Guerrier-fauve",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Oracle",
+        "Paladin",
+        "Totem"
+      ]
+    },
+    {
+      "name": "Augure",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Barde",
+        "Chantelame",
+        "Conjurateur",
+        "Conspirateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Oracle",
+        "Totem"
+      ],
+      "likely": ["Alchimiste", "Inquisiteur", "Nécromant"],
+      "none": [
+        "Artificier",
+        "Assassin",
+        "Commandant",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Maître d’armes",
+        "Médecin",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Brute",
+      "strong": ["Flibustier", "Guerrier-fauve", "Maître d’armes"],
+      "likely": ["Commandant", "Gladiateur", "Tireur d’élite"],
+      "none": [
+        "Alchimiste",
+        "Archidruide",
+        "Archimage",
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Chantelame",
+        "Conjurateur",
+        "Conspirateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Gardien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître-élémentaire",
+        "Médecin",
+        "Nécromant",
+        "Oracle",
+        "Paladin",
+        "Totem",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Bricoleur",
+      "strong": [
+        "Alchimiste",
+        "Archimage",
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Chantelame",
+        "Conjurateur",
+        "Conspirateur",
+        "Ensorceleur",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Tireur d’élite"
+      ],
+      "likely": ["Gardien", "Oracle"],
+      "none": [
+        "Archidruide",
+        "Commandant",
+        "Éthermancien",
+        "Flibustier",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Médecin",
+        "Paladin",
+        "Totem",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Brigand",
+      "strong": ["Flibustier", "Médecin"],
+      "likely": [
+        "Archidruide",
+        "Assassin",
+        "Barde",
+        "Conspirateur",
+        "Guerrier-fauve",
+        "Totem"
+      ],
+      "none": [
+        "Alchimiste",
+        "Archimage",
+        "Artificier",
+        "Chantelame",
+        "Commandant",
+        "Conjurateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Gardien",
+        "Gladiateur",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Oracle",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Cambrioleur",
+      "strong": [
+        "Assassin",
+        "Barde",
+        "Conspirateur",
+        "Médecin",
+        "Oracle",
+        "Tireur d’élite"
+      ],
+      "likely": [
+        "Alchimiste",
+        "Artificier",
+        "Chantelame",
+        "Ensorceleur",
+        "Traqueur"
+      ],
+      "none": [
+        "Archidruide",
+        "Archimage",
+        "Commandant",
+        "Conjurateur",
+        "Éthermancien",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Grand-Prêtre",
+        "Guerrier-fauve",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Paladin",
+        "Totem"
+      ]
+    },
+    {
+      "name": "Catalyste",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Chantelame",
+        "Conjurateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Totem"
+      ],
+      "likely": [
+        "Guerrier-fauve",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Nécromant",
+        "Oracle"
+      ],
+      "none": [
+        "Alchimiste",
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Commandant",
+        "Conspirateur",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Médecin",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Chaman",
+      "strong": [
+        "Archidruide",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Nécromant",
+        "Totem"
+      ],
+      "likely": [
+        "Alchimiste",
+        "Archimage",
+        "Conjurateur",
+        "Ensorceleur",
+        "Gardien",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Oracle"
+      ],
+      "none": [
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Chantelame",
+        "Commandant",
+        "Conspirateur",
+        "Flibustier",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Médecin",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Champion",
+      "strong": [
+        "Chantelame",
+        "Commandant",
+        "Conjurateur",
+        "Guerrier-fauve",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Paladin"
+      ],
+      "likely": ["Éthermancien", "Gladiateur", "Grand-Prêtre"],
+      "none": [
+        "Alchimiste",
+        "Archidruide",
+        "Archimage",
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Conspirateur",
+        "Ensorceleur",
+        "Flibustier",
+        "Gardien",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Médecin",
+        "Nécromant",
+        "Oracle",
+        "Tireur d’élite",
+        "Totem",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Chasseur",
+      "strong": [
+        "Archidruide",
+        "Barde",
+        "Gardien",
+        "Médecin",
+        "Nécromant",
+        "Tireur d’élite",
+        "Totem",
+        "Traqueur"
+      ],
+      "likely": [
+        "Alchimiste",
+        "Assassin",
+        "Conspirateur",
+        "Guerrier-fauve",
+        "Maître d’armes"
+      ],
+      "none": [
+        "Archimage",
+        "Artificier",
+        "Chantelame",
+        "Commandant",
+        "Conjurateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Flibustier",
+        "Gladiateur",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître-élémentaire",
+        "Oracle",
+        "Paladin"
+      ]
+    },
+    {
+      "name": "Druide",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Conjurateur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Totem"
+      ],
+      "likely": ["Alchimiste", "Ensorceleur", "Gardien", "Médecin", "Oracle"],
+      "none": [
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Chantelame",
+        "Commandant",
+        "Conspirateur",
+        "Flibustier",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Duelliste",
+      "strong": [
+        "Assassin",
+        "Barde",
+        "Chantelame",
+        "Conspirateur",
+        "Ensorceleur"
+      ],
+      "likely": [
+        "Artificier",
+        "Commandant",
+        "Conjurateur",
+        "Flibustier",
+        "Médecin",
+        "Oracle",
+        "Tireur d’élite"
+      ],
+      "none": [
+        "Alchimiste",
+        "Archidruide",
+        "Archimage",
+        "Éthermancien",
+        "Gardien",
+        "Gladiateur",
+        "Grand-Prêtre",
+        "Guerrier-fauve",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Paladin",
+        "Totem",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Élémancien",
+      "strong": [
+        "Archimage",
+        "Conjurateur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître-élémentaire",
+        "Oracle"
+      ],
+      "likely": [
+        "Archidruide",
+        "Chantelame",
+        "Conspirateur",
+        "Ensorceleur",
+        "Nécromant",
+        "Totem"
+      ],
+      "none": [
+        "Alchimiste",
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Commandant",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Maître d’armes",
+        "Médecin",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Haruspice",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Conjurateur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Totem"
+      ],
+      "likely": [
+        "Alchimiste",
+        "Barde",
+        "Ensorceleur",
+        "Inquisiteur",
+        "Médecin",
+        "Oracle"
+      ],
+      "none": [
+        "Artificier",
+        "Assassin",
+        "Chantelame",
+        "Commandant",
+        "Conspirateur",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Maître d’armes",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Illusionniste",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Barde",
+        "Chantelame",
+        "Conjurateur",
+        "Conspirateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Oracle",
+        "Totem"
+      ],
+      "likely": [
+        "Alchimiste",
+        "Artificier",
+        "Inquisiteur",
+        "Médecin",
+        "Nécromant"
+      ],
+      "none": [
+        "Assassin",
+        "Commandant",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Maître d’armes",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Mage",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Chantelame",
+        "Conjurateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Oracle",
+        "Totem"
+      ],
+      "likely": ["Alchimiste", "Barde", "Inquisiteur"],
+      "none": [
+        "Artificier",
+        "Assassin",
+        "Commandant",
+        "Conspirateur",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Maître d’armes",
+        "Médecin",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Magelame",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Chantelame",
+        "Conjurateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Oracle",
+        "Totem"
+      ],
+      "likely": ["Barde", "Guerrier-fauve", "Inquisiteur", "Paladin"],
+      "none": [
+        "Alchimiste",
+        "Artificier",
+        "Assassin",
+        "Commandant",
+        "Conspirateur",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Maître d’armes",
+        "Médecin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Prêtre",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Chantelame",
+        "Conjurateur",
+        "Ensorceleur",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître-élémentaire",
+        "Oracle",
+        "Totem"
+      ],
+      "likely": ["Barde", "Conspirateur", "Éthermancien", "Nécromant"],
+      "none": [
+        "Alchimiste",
+        "Artificier",
+        "Assassin",
+        "Commandant",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Maître d’armes",
+        "Médecin",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Soldat",
+      "strong": ["Commandant", "Maître d’armes", "Paladin", "Tireur d’élite"],
+      "likely": [
+        "Chantelame",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Médecin",
+        "Traqueur"
+      ],
+      "none": [
+        "Alchimiste",
+        "Archidruide",
+        "Archimage",
+        "Artificier",
+        "Assassin",
+        "Barde",
+        "Conjurateur",
+        "Conspirateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Flibustier",
+        "Gardien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Oracle",
+        "Totem"
+      ]
+    },
+    {
+      "name": "Sorcier",
+      "strong": [
+        "Archidruide",
+        "Archimage",
+        "Barde",
+        "Chantelame",
+        "Conjurateur",
+        "Conspirateur",
+        "Ensorceleur",
+        "Éthermancien",
+        "Grand-Prêtre",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître-élémentaire",
+        "Nécromant",
+        "Oracle",
+        "Totem"
+      ],
+      "likely": ["Alchimiste"],
+      "none": [
+        "Artificier",
+        "Assassin",
+        "Commandant",
+        "Flibustier",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Maître d’armes",
+        "Médecin",
+        "Paladin",
+        "Tireur d’élite",
+        "Traqueur"
+      ]
+    },
+    {
+      "name": "Troubadour",
+      "strong": [
+        "Archidruide",
+        "Barde",
+        "Chantelame",
+        "Conjurateur",
+        "Conspirateur",
+        "Ensorceleur",
+        "Grand-Prêtre",
+        "Médecin",
+        "Nécromant",
+        "Oracle"
+      ],
+      "likely": ["Alchimiste", "Assassin", "Flibustier", "Totem", "Traqueur"],
+      "none": [
+        "Archimage",
+        "Artificier",
+        "Commandant",
+        "Éthermancien",
+        "Gardien",
+        "Gladiateur",
+        "Guerrier-fauve",
+        "Haut Mage",
+        "Inquisiteur",
+        "Maître d’armes",
+        "Maître-élémentaire",
+        "Paladin",
+        "Tireur d’élite"
+      ]
+    }
+  ],
+  "details": [
+    {
+      "source": "Animiste",
+      "target": "Archer",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Astromancien",
+      "target": "Archer",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Clerc",
+      "target": "Archer",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Combattant",
+      "target": "Archer",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Archer",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Archer",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Archer",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Roublard",
+      "target": "Archer",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Animiste",
+      "target": "Augure",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Astromancien",
+      "target": "Augure",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Clerc",
+      "target": "Augure",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Combattant",
+      "target": "Augure",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Augure",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Augure",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Augure",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Roublard",
+      "target": "Augure",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Animiste",
+      "target": "Brute",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Astromancien",
+      "target": "Brute",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Clerc",
+      "target": "Brute",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Combattant",
+      "target": "Brute",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Brute",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Brute",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Brute",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Roublard",
+      "target": "Brute",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Animiste",
+      "target": "Bricoleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Astromancien",
+      "target": "Bricoleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Clerc",
+      "target": "Bricoleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Combattant",
+      "target": "Bricoleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Bricoleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Bricoleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Bricoleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Roublard",
+      "target": "Bricoleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Animiste",
+      "target": "Brigand",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Astromancien",
+      "target": "Brigand",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Clerc",
+      "target": "Brigand",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Combattant",
+      "target": "Brigand",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Brigand",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Brigand",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Brigand",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Roublard",
+      "target": "Brigand",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Animiste",
+      "target": "Cambrioleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Astromancien",
+      "target": "Cambrioleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Clerc",
+      "target": "Cambrioleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Combattant",
+      "target": "Cambrioleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Cambrioleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Cambrioleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Cambrioleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Roublard",
+      "target": "Cambrioleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Animiste",
+      "target": "Catalyste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Astromancien",
+      "target": "Catalyste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Clerc",
+      "target": "Catalyste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Combattant",
+      "target": "Catalyste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Catalyste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Catalyste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Catalyste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Roublard",
+      "target": "Catalyste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Animiste",
+      "target": "Chaman",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Astromancien",
+      "target": "Chaman",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Clerc",
+      "target": "Chaman",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Combattant",
+      "target": "Chaman",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Chaman",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Chaman",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Chaman",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Roublard",
+      "target": "Chaman",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Animiste",
+      "target": "Champion",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Astromancien",
+      "target": "Champion",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Clerc",
+      "target": "Champion",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Combattant",
+      "target": "Champion",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Champion",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Champion",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Champion",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Roublard",
+      "target": "Champion",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Animiste",
+      "target": "Chasseur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Astromancien",
+      "target": "Chasseur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Clerc",
+      "target": "Chasseur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Combattant",
+      "target": "Chasseur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Chasseur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Chasseur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Chasseur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Roublard",
+      "target": "Chasseur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Animiste",
+      "target": "Druide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Astromancien",
+      "target": "Druide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Clerc",
+      "target": "Druide",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Combattant",
+      "target": "Druide",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Druide",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Druide",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Druide",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Roublard",
+      "target": "Druide",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Animiste",
+      "target": "Duelliste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Astromancien",
+      "target": "Duelliste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Clerc",
+      "target": "Duelliste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Combattant",
+      "target": "Duelliste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Duelliste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Duelliste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Duelliste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Roublard",
+      "target": "Duelliste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Animiste",
+      "target": "Élémancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Astromancien",
+      "target": "Élémancien",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Clerc",
+      "target": "Élémancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Combattant",
+      "target": "Élémancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Élémancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Élémancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Élémancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Roublard",
+      "target": "Élémancien",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Animiste",
+      "target": "Haruspice",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Astromancien",
+      "target": "Haruspice",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Clerc",
+      "target": "Haruspice",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Combattant",
+      "target": "Haruspice",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Haruspice",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Haruspice",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Haruspice",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Roublard",
+      "target": "Haruspice",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Animiste",
+      "target": "Illusionniste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Astromancien",
+      "target": "Illusionniste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Clerc",
+      "target": "Illusionniste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Combattant",
+      "target": "Illusionniste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Illusionniste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Illusionniste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Illusionniste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Roublard",
+      "target": "Illusionniste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Animiste",
+      "target": "Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Astromancien",
+      "target": "Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Clerc",
+      "target": "Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Combattant",
+      "target": "Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Mage",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Roublard",
+      "target": "Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Animiste",
+      "target": "Magelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Astromancien",
+      "target": "Magelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Clerc",
+      "target": "Magelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Combattant",
+      "target": "Magelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Magelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Magelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Magelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Roublard",
+      "target": "Magelame",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Animiste",
+      "target": "Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Astromancien",
+      "target": "Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Clerc",
+      "target": "Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Combattant",
+      "target": "Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Prêtre",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Roublard",
+      "target": "Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Animiste",
+      "target": "Soldat",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Astromancien",
+      "target": "Soldat",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Clerc",
+      "target": "Soldat",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Combattant",
+      "target": "Soldat",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Soldat",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Soldat",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Soldat",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Roublard",
+      "target": "Soldat",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Animiste",
+      "target": "Sorcier",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Astromancien",
+      "target": "Sorcier",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Clerc",
+      "target": "Sorcier",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Combattant",
+      "target": "Sorcier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Sorcier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Sorcier",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Sorcier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Roublard",
+      "target": "Sorcier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Animiste",
+      "target": "Troubadour",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Astromancien",
+      "target": "Troubadour",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Clerc",
+      "target": "Troubadour",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Combattant",
+      "target": "Troubadour",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Éclaireur",
+      "target": "Troubadour",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Élémentariste",
+      "target": "Troubadour",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Ménestrel",
+      "target": "Troubadour",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 16
+    },
+    {
+      "source": "Roublard",
+      "target": "Troubadour",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Archer",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Augure",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Brute",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Alchimiste",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Brigand",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Catalyste",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Chaman",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Champion",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Chasseur",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Druide",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Duelliste",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémancien",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Haruspice",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Mage",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Magelame",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Prêtre",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Soldat",
+      "target": "Alchimiste",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Sorcier",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Troubadour",
+      "target": "Alchimiste",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Archer",
+      "target": "Archidruide",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Augure",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Brute",
+      "target": "Archidruide",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Archidruide",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Brigand",
+      "target": "Archidruide",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Archidruide",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Catalyste",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Chaman",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Champion",
+      "target": "Archidruide",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chasseur",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Druide",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Duelliste",
+      "target": "Archidruide",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Élémancien",
+      "target": "Archidruide",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Haruspice",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Mage",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Magelame",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Soldat",
+      "target": "Archidruide",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Sorcier",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Troubadour",
+      "target": "Archidruide",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Archer",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Augure",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Brute",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brigand",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Catalyste",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chaman",
+      "target": "Archimage",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Champion",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Chasseur",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Druide",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Duelliste",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Haruspice",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Mage",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Magelame",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Soldat",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Sorcier",
+      "target": "Archimage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Troubadour",
+      "target": "Archimage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Archer",
+      "target": "Artificier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Augure",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Brute",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Artificier",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Brigand",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Artificier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Catalyste",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Chaman",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Champion",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Chasseur",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Druide",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Duelliste",
+      "target": "Artificier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Élémancien",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Haruspice",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Artificier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Mage",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Magelame",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Prêtre",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Soldat",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Sorcier",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Troubadour",
+      "target": "Artificier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Archer",
+      "target": "Assassin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Augure",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Brute",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Assassin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brigand",
+      "target": "Assassin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Assassin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Catalyste",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Chaman",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Champion",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Chasseur",
+      "target": "Assassin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Druide",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Duelliste",
+      "target": "Assassin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Élémancien",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Haruspice",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Mage",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Magelame",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Prêtre",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Soldat",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Sorcier",
+      "target": "Assassin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Troubadour",
+      "target": "Assassin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Archer",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Augure",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brute",
+      "target": "Barde",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Brigand",
+      "target": "Barde",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Catalyste",
+      "target": "Barde",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chaman",
+      "target": "Barde",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Champion",
+      "target": "Barde",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Chasseur",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Druide",
+      "target": "Barde",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Duelliste",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Élémancien",
+      "target": "Barde",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Haruspice",
+      "target": "Barde",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Mage",
+      "target": "Barde",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Magelame",
+      "target": "Barde",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Prêtre",
+      "target": "Barde",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Soldat",
+      "target": "Barde",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Sorcier",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Troubadour",
+      "target": "Barde",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 16
+    },
+    {
+      "source": "Archer",
+      "target": "Chantelame",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Augure",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Brute",
+      "target": "Chantelame",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brigand",
+      "target": "Chantelame",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Chantelame",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Catalyste",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chaman",
+      "target": "Chantelame",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Champion",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chasseur",
+      "target": "Chantelame",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Druide",
+      "target": "Chantelame",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Duelliste",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Élémancien",
+      "target": "Chantelame",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Haruspice",
+      "target": "Chantelame",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Mage",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Magelame",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Soldat",
+      "target": "Chantelame",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Sorcier",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Troubadour",
+      "target": "Chantelame",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Archer",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Augure",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Brute",
+      "target": "Commandant",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Brigand",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Catalyste",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Chaman",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Champion",
+      "target": "Commandant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Chasseur",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Druide",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Duelliste",
+      "target": "Commandant",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémancien",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Haruspice",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Mage",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Magelame",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Prêtre",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Soldat",
+      "target": "Commandant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Sorcier",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Troubadour",
+      "target": "Commandant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Archer",
+      "target": "Conjurateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Augure",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Brute",
+      "target": "Conjurateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Brigand",
+      "target": "Conjurateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Conjurateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Catalyste",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Chaman",
+      "target": "Conjurateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Champion",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Chasseur",
+      "target": "Conjurateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Druide",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Duelliste",
+      "target": "Conjurateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Élémancien",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Haruspice",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Mage",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Magelame",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Prêtre",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Soldat",
+      "target": "Conjurateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Sorcier",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 15
+    },
+    {
+      "source": "Troubadour",
+      "target": "Conjurateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Archer",
+      "target": "Conspirateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Augure",
+      "target": "Conspirateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brute",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Conspirateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brigand",
+      "target": "Conspirateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Conspirateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Catalyste",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Chaman",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Champion",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chasseur",
+      "target": "Conspirateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Druide",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Duelliste",
+      "target": "Conspirateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Élémancien",
+      "target": "Conspirateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Haruspice",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Conspirateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Mage",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Magelame",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Prêtre",
+      "target": "Conspirateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Soldat",
+      "target": "Conspirateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Sorcier",
+      "target": "Conspirateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Troubadour",
+      "target": "Conspirateur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Archer",
+      "target": "Ensorceleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Augure",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Brute",
+      "target": "Ensorceleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brigand",
+      "target": "Ensorceleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Ensorceleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Catalyste",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chaman",
+      "target": "Ensorceleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Champion",
+      "target": "Ensorceleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Chasseur",
+      "target": "Ensorceleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Druide",
+      "target": "Ensorceleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Duelliste",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Élémancien",
+      "target": "Ensorceleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Haruspice",
+      "target": "Ensorceleur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Mage",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Magelame",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Prêtre",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Soldat",
+      "target": "Ensorceleur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Sorcier",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Troubadour",
+      "target": "Ensorceleur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Archer",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Augure",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brute",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brigand",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Catalyste",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Chaman",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Champion",
+      "target": "Éthermancien",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Chasseur",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Druide",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Duelliste",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Élémancien",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Haruspice",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Mage",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Magelame",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Prêtre",
+      "target": "Éthermancien",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Soldat",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Sorcier",
+      "target": "Éthermancien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Troubadour",
+      "target": "Éthermancien",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Archer",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Augure",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Brute",
+      "target": "Flibustier",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Brigand",
+      "target": "Flibustier",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Catalyste",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Chaman",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Champion",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chasseur",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Druide",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Duelliste",
+      "target": "Flibustier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémancien",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Haruspice",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Mage",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Magelame",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Prêtre",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Soldat",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Sorcier",
+      "target": "Flibustier",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Troubadour",
+      "target": "Flibustier",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Archer",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Augure",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Brute",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Gardien",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brigand",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Catalyste",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chaman",
+      "target": "Gardien",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Champion",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Chasseur",
+      "target": "Gardien",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Druide",
+      "target": "Gardien",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Duelliste",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Élémancien",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Haruspice",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Mage",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Magelame",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Prêtre",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Soldat",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Sorcier",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Troubadour",
+      "target": "Gardien",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Archer",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Augure",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Brute",
+      "target": "Gladiateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Brigand",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Catalyste",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chaman",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Champion",
+      "target": "Gladiateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Chasseur",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Druide",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Duelliste",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Haruspice",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Mage",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Magelame",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Prêtre",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Soldat",
+      "target": "Gladiateur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Sorcier",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Troubadour",
+      "target": "Gladiateur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Archer",
+      "target": "Grand-Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Augure",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Brute",
+      "target": "Grand-Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brigand",
+      "target": "Grand-Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Grand-Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Catalyste",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Chaman",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Champion",
+      "target": "Grand-Prêtre",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chasseur",
+      "target": "Grand-Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Druide",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Duelliste",
+      "target": "Grand-Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Haruspice",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Mage",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Magelame",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Prêtre",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 15
+    },
+    {
+      "source": "Soldat",
+      "target": "Grand-Prêtre",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Sorcier",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 15
+    },
+    {
+      "source": "Troubadour",
+      "target": "Grand-Prêtre",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Archer",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Augure",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Brute",
+      "target": "Guerrier-fauve",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Brigand",
+      "target": "Guerrier-fauve",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Catalyste",
+      "target": "Guerrier-fauve",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Chaman",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Champion",
+      "target": "Guerrier-fauve",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Chasseur",
+      "target": "Guerrier-fauve",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Druide",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Duelliste",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Élémancien",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Haruspice",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Mage",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Magelame",
+      "target": "Guerrier-fauve",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Prêtre",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Soldat",
+      "target": "Guerrier-fauve",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Sorcier",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Troubadour",
+      "target": "Guerrier-fauve",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Archer",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Augure",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Brute",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brigand",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Catalyste",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chaman",
+      "target": "Haut Mage",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Champion",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Chasseur",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Druide",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Duelliste",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Haruspice",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Mage",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Magelame",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Soldat",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Sorcier",
+      "target": "Haut Mage",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Troubadour",
+      "target": "Haut Mage",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Archer",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Augure",
+      "target": "Inquisiteur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Brute",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Brigand",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Catalyste",
+      "target": "Inquisiteur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Chaman",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Champion",
+      "target": "Inquisiteur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Chasseur",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Druide",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Duelliste",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Inquisiteur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Haruspice",
+      "target": "Inquisiteur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Inquisiteur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Mage",
+      "target": "Inquisiteur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Magelame",
+      "target": "Inquisiteur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Prêtre",
+      "target": "Inquisiteur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Soldat",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Sorcier",
+      "target": "Inquisiteur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Troubadour",
+      "target": "Inquisiteur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Archer",
+      "target": "Maître d’armes",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Augure",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Brute",
+      "target": "Maître d’armes",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Brigand",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Catalyste",
+      "target": "Maître d’armes",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chaman",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Champion",
+      "target": "Maître d’armes",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Chasseur",
+      "target": "Maître d’armes",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Druide",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Duelliste",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Haruspice",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Mage",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Magelame",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Prêtre",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Soldat",
+      "target": "Maître d’armes",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Sorcier",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Troubadour",
+      "target": "Maître d’armes",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Archer",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Augure",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Brute",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brigand",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Catalyste",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Chaman",
+      "target": "Maître-élémentaire",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Champion",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Chasseur",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Druide",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Duelliste",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Haruspice",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Mage",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Magelame",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Prêtre",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Soldat",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Sorcier",
+      "target": "Maître-élémentaire",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Troubadour",
+      "target": "Maître-élémentaire",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Archer",
+      "target": "Médecin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Augure",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Brute",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brigand",
+      "target": "Médecin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Médecin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Catalyste",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chaman",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Champion",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Chasseur",
+      "target": "Médecin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Druide",
+      "target": "Médecin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Duelliste",
+      "target": "Médecin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Élémancien",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Haruspice",
+      "target": "Médecin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Médecin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Mage",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Magelame",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Prêtre",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Soldat",
+      "target": "Médecin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Sorcier",
+      "target": "Médecin",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Troubadour",
+      "target": "Médecin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Archer",
+      "target": "Nécromant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Augure",
+      "target": "Nécromant",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Brute",
+      "target": "Nécromant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Brigand",
+      "target": "Nécromant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Nécromant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Catalyste",
+      "target": "Nécromant",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Chaman",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Champion",
+      "target": "Nécromant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chasseur",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Druide",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Duelliste",
+      "target": "Nécromant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Nécromant",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Haruspice",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Nécromant",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Mage",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Magelame",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Nécromant",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Soldat",
+      "target": "Nécromant",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Sorcier",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Troubadour",
+      "target": "Nécromant",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Archer",
+      "target": "Oracle",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Augure",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Brute",
+      "target": "Oracle",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 0
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Oracle",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Brigand",
+      "target": "Oracle",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Catalyste",
+      "target": "Oracle",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Chaman",
+      "target": "Oracle",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Champion",
+      "target": "Oracle",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chasseur",
+      "target": "Oracle",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Druide",
+      "target": "Oracle",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Duelliste",
+      "target": "Oracle",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémancien",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Haruspice",
+      "target": "Oracle",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Mage",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Magelame",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 12
+    },
+    {
+      "source": "Soldat",
+      "target": "Oracle",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Sorcier",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 14
+    },
+    {
+      "source": "Troubadour",
+      "target": "Oracle",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Archer",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Augure",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Brute",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Brigand",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Catalyste",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Chaman",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Champion",
+      "target": "Paladin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Chasseur",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Druide",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Duelliste",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Élémancien",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Haruspice",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Mage",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Magelame",
+      "target": "Paladin",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Soldat",
+      "target": "Paladin",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Sorcier",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Troubadour",
+      "target": "Paladin",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Archer",
+      "target": "Tireur d’élite",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Augure",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Brute",
+      "target": "Tireur d’élite",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Tireur d’élite",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brigand",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Tireur d’élite",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Catalyste",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chaman",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Champion",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chasseur",
+      "target": "Tireur d’élite",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Druide",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Duelliste",
+      "target": "Tireur d’élite",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    },
+    {
+      "source": "Élémancien",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Haruspice",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Mage",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Magelame",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Prêtre",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Soldat",
+      "target": "Tireur d’élite",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Sorcier",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Troubadour",
+      "target": "Tireur d’élite",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Archer",
+      "target": "Totem",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Augure",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Brute",
+      "target": "Totem",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Totem",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Brigand",
+      "target": "Totem",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Totem",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Catalyste",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Chaman",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 15
+    },
+    {
+      "source": "Champion",
+      "target": "Totem",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chasseur",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Druide",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 15
+    },
+    {
+      "source": "Duelliste",
+      "target": "Totem",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Élémancien",
+      "target": "Totem",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Haruspice",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 13
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Mage",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Magelame",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Prêtre",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 9
+    },
+    {
+      "source": "Soldat",
+      "target": "Totem",
+      "kind": "None",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Sorcier",
+      "target": "Totem",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 10
+    },
+    {
+      "source": "Troubadour",
+      "target": "Totem",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": null,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Archer",
+      "target": "Traqueur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Augure",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Brute",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Bricoleur",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Brigand",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Cambrioleur",
+      "target": "Traqueur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 8
+    },
+    {
+      "source": "Catalyste",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 3
+    },
+    {
+      "source": "Chaman",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Champion",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Chasseur",
+      "target": "Traqueur",
+      "kind": "Strong",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 11
+    },
+    {
+      "source": "Druide",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Duelliste",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Élémancien",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 1
+    },
+    {
+      "source": "Haruspice",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 6
+    },
+    {
+      "source": "Illusionniste",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Mage",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Magelame",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Prêtre",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 2
+    },
+    {
+      "source": "Soldat",
+      "target": "Traqueur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": true,
+      "optionalTalentMatches": 5
+    },
+    {
+      "source": "Sorcier",
+      "target": "Traqueur",
+      "kind": "None",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 4
+    },
+    {
+      "source": "Troubadour",
+      "target": "Traqueur",
+      "kind": "Likely",
+      "isMandatoryTalentMatch": false,
+      "optionalTalentMatches": 7
+    }
+  ]
+}

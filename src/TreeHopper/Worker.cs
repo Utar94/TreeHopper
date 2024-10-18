@@ -6,6 +6,7 @@ namespace TreeHopper;
 
 internal class Worker : BackgroundService
 {
+  private const string ReportPath = "reports/paths.json";
   private const string SpecializationPath = "data/specializations.csv";
   private const string TalentPath = "data/talents.csv";
   private static readonly Encoding _encoding = Encoding.UTF8;
@@ -15,9 +16,10 @@ internal class Worker : BackgroundService
   {
     _serializerOptions = new()
     {
-      Encoder = JavaScriptEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Latin1Supplement),
+      Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
       WriteIndented = true
     };
+    _serializerOptions.Converters.Add(new JsonStringEnumConverter());
   }
 
   private readonly IHostApplicationLifetime _hostApplicationLifetime;
@@ -79,20 +81,54 @@ internal class Worker : BackgroundService
       }
     }
 
-    Dictionary<string, Dictionary<string, SpecializationPath>> report = [];
+    Report report = new();
+    report.Details.AddRange(paths);
+
+    Dictionary<string, PathSummary> tier1 = [];
+    Dictionary<string, PathSummary> tier2 = [];
     foreach (SpecializationPath path in paths)
     {
-      if (!report.TryGetValue(path.Target.Name, out Dictionary<string, SpecializationPath>? sources))
+      PathSummary? summary = null;
+      string key = Normalize(path.Source.Name);
+      if (path.Source.Tier == 1)
       {
-        sources = [];
-        report[path.Target.Name] = sources;
+        if (!tier1.TryGetValue(key, out summary))
+        {
+          summary = new(path.Source);
+          tier1[key] = summary;
+        }
+      }
+      else if (path.Source.Tier == 2)
+      {
+        if (!tier2.TryGetValue(key, out summary))
+        {
+          summary = new(path.Source);
+          tier2[key] = summary;
+        }
       }
 
-      sources[path.Source.Name] = path;
+      if (summary != null)
+      {
+        switch (path.Kind)
+        {
+          case PathKind.Likely:
+            summary.Likely.Add(path.Target.Name);
+            break;
+          case PathKind.Strong:
+            summary.Strong.Add(path.Target.Name);
+            break;
+          default:
+            summary.None.Add(path.Target.Name);
+            break;
+        }
+      }
     }
+    report.Tier1.AddRange(tier1.Values);
+    report.Tier2.AddRange(tier2.Values);
+
     string json = JsonSerializer.Serialize(report, _serializerOptions);
-    await File.WriteAllTextAsync("report.json", json, _encoding, cancellationToken);
-    _logger.LogInformation("Saved report to file '{Path}'.", "report.json");
+    await File.WriteAllTextAsync(ReportPath, json, _encoding, cancellationToken);
+    _logger.LogInformation("Saved report to file '{Path}'.", ReportPath);
 
     _hostApplicationLifetime.StopApplication();
   }
@@ -115,4 +151,6 @@ internal class Worker : BackgroundService
 
     return path;
   }
+
+  private static string Normalize(string value) => value.Trim().ToUpperInvariant();
 }
